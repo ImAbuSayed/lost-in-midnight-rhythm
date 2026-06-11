@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-midnight-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Lost In Midnight Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-midnight-rhythm/) |
+| **Get License** | [Official Music Licensing for Lost In Midnight Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-midnight-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aa7b1fc9288b027cf5f1322cd744ba7eb9a836891a322907b76e33cc66b11445` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
