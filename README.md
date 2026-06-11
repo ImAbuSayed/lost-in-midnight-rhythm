@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-midnight-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lost In Midnight Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-midnight-rhythm/) |
+| **Get License** | [Music Rights & Licensing for Lost In Midnight Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-midnight-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows are falling on the wooden floor
+> I never wanted anybody more
+> Pulling you close in the fading light
+> I am losing my way in your rhythm tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
